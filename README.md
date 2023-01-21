@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Data Science with HyperionDev. You can look at some of my projects in my [CapstoneProjects](https://github.com/victoriadw/CapstoneProjects) repository! 🌱
 
-📫 I'm looking for a junior role in the tech industry, in software engineering or something similar! You can find me on LinkedIn [here](https://www.linkedin.com/in/victoria-daramy-williams/). 📫
+📫 I'm looking for an entry-level role in the tech industry, in software engineering or something similar! You can find me on LinkedIn [here](https://www.linkedin.com/in/victoria-daramy-williams/). 📫
 
 🔭 I mainly code in Python and MATLAB, but I am open to learning other programming languages. Maybe I'll explore C++ next? 🔭
 
