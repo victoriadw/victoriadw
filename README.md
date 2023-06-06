@@ -4,8 +4,6 @@
 
 🌱 You can look at some of my projects in my [CapstoneProjects](https://github.com/victoriadw/CapstoneProjects) repository! 🌱
 
-📫 I'm looking for a role in the tech industry, in data science or something similar! You can find me on LinkedIn [here](https://www.linkedin.com/in/victoria-daramy-williams/). 📫
-
 🔭 I mainly code in Python and Java, but I am open to learning other programming languages. Maybe I'll explore C++ next? 🔭
 
 <!--
